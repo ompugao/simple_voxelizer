@@ -1,0 +1,9 @@
+<library path="lib/libsimple_voxelizer_nodelet">
+  <class name="simple_voxelizer/SimpleVoxelizerNodelet" type="simple_voxelizer::SimpleVoxelizerNodelet" base_class_type="nodelet::Nodelet">
+    <description>
+       simple voxelizer nodelet.
+    </description>
+  </class>
+</library>
+
+
